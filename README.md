@@ -1,1 +1,2 @@
-# github-intro
+# Learning GitHub
+This is an introduction
